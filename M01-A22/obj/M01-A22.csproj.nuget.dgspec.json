@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A21\\M01-A21.csproj": {}
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A22\\M01-A22.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A21\\M01-A21.csproj": {
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A22\\M01-A22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A21\\M01-A21.csproj",
-        "projectName": "M01-A21",
-        "projectPath": "c:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A21\\M01-A21.csproj",
+        "projectUniqueName": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A22\\M01-A22.csproj",
+        "projectName": "M01-A22",
+        "projectPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A22\\M01-A22.csproj",
         "packagesPath": "C:\\Users\\Alexeus\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A21\\obj\\",
+        "outputPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M01-A22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexeus\\AppData\\Roaming\\NuGet\\NuGet.Config",
