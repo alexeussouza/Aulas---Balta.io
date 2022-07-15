@@ -1,0 +1,15 @@
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.csproj.AssemblyReference.cache
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.AssemblyInfoInputs.cache
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.AssemblyInfo.cs
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.csproj.CoreCompileInputs.cache
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\bin\Debug\net6.0\Balta - M01-A05.exe
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\bin\Debug\net6.0\Balta - M01-A05.deps.json
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\bin\Debug\net6.0\Balta - M01-A05.runtimeconfig.json
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\bin\Debug\net6.0\Balta - M01-A05.dll
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\bin\Debug\net6.0\Balta - M01-A05.pdb
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.dll
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\refint\Balta - M01-A05.dll
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.pdb
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\Balta - M01-A05.genruntimeconfig.cache
+C:\Users\Alexeus\Documents\Projetos\Balta - M01-A05\obj\Debug\net6.0\ref\Balta - M01-A05.dll

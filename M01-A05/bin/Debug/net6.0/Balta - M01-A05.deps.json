@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Balta - M01-A05/1.0.0": {
+        "runtime": {
+          "Balta - M01-A05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balta - M01-A05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
