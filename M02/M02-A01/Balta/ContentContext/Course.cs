@@ -4,8 +4,9 @@ namespace Balta.ContentContext{
 
     public class Course : Content{
 
-        public Course(){
-
+        public Course(string title, string url)
+            :base(title, url)
+        {
             Modules = new List<Module>();  // Inicialização da lista de Modulos    
         }
 
@@ -17,3 +18,4 @@ namespace Balta.ContentContext{
         public EContentLevel Level { get; set; }
     }
 }
+// Todo artigo é um content

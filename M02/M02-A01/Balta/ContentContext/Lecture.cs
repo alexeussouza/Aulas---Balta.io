@@ -9,3 +9,4 @@ namespace Balta.ContentContext{
         public EContentLevel Level { get; set; }
     }
 }
+// Todo artigo é um content

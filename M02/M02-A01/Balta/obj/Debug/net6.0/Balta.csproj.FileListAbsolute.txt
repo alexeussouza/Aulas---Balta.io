@@ -28,3 +28,18 @@ G:\Cursos TI\Aulas\Aulas - Balta.io\M02\M02-A01\Balta\obj\Debug\net6.0\refint\Ba
 G:\Cursos TI\Aulas\Aulas - Balta.io\M02\M02-A01\Balta\obj\Debug\net6.0\Balta.pdb
 G:\Cursos TI\Aulas\Aulas - Balta.io\M02\M02-A01\Balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache
 G:\Cursos TI\Aulas\Aulas - Balta.io\M02\M02-A01\Balta\obj\Debug\net6.0\ref\Balta.dll
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\bin\Debug\net6.0\Balta.exe
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\bin\Debug\net6.0\Balta.deps.json
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\bin\Debug\net6.0\Balta.runtimeconfig.json
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\bin\Debug\net6.0\Balta.dll
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\bin\Debug\net6.0\Balta.pdb
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.csproj.AssemblyReference.cache
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.AssemblyInfoInputs.cache
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.AssemblyInfo.cs
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.csproj.CoreCompileInputs.cache
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.dll
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\refint\Balta.dll
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.pdb
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache
+C:\Users\Alexeus\Documents\GitHub\Aulas---Balta.io\M02\M02-A01\balta\obj\Debug\net6.0\ref\Balta.dll

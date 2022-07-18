@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Cursos TI\\Aulas\\Aulas - Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {}
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {}
   },
   "projects": {
-    "G:\\Cursos TI\\Aulas\\Aulas - Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Cursos TI\\Aulas\\Aulas - Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
+        "projectUniqueName": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "G:\\Cursos TI\\Aulas\\Aulas - Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
-        "packagesPath": "C:\\Users\\Alexandre\\.nuget\\packages\\",
-        "outputPath": "G:\\Cursos TI\\Aulas\\Aulas - Balta.io\\M02\\M02-A01\\Balta\\obj\\",
+        "projectPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
+        "packagesPath": "C:\\Users\\Alexeus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexeus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
