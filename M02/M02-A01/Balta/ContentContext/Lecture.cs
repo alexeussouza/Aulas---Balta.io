@@ -1,7 +1,7 @@
 using Balta.ContentContext.Enums;
 
 namespace Balta.ContentContext{
-    public class Lecture{ // Lectura significa aula
+    public class Lecture: Base{ // Lectura significa aula
 
         public int Ordem { get; set; }
         public string Title { get; set; }

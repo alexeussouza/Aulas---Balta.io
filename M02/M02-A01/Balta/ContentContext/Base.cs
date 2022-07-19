@@ -1,16 +1,16 @@
 using System;
-//using Balta.NotificationContext;
+using Balta.NotificationContext;
 
-namespace Balta.ShareContext{
+namespace Balta.ContentContext{
 
     // Content é uma classe abstrata, Course, Lecture e Career são do tipo Content
     // Abstract não permite que esta classe seja instanciada
-    public abstract class Base 
+    public abstract class Base : Notifiable
     { 
 
         public Guid Id { get; set; }
 
-        public Base(string title, string url)
+        public Base()
         {
            // Guid globally unique identifier GUID, geração do Id na chamada do construtor
            // É incorreto usar new Guid(), desta forma ele inicia o Id com um numero inteiro com zero

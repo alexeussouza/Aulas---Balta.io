@@ -17,7 +17,6 @@ namespace Balta.ContentContext{
             }
          }
          */
-
            public int TotalCourses  => Items.Count; // Expression Body, podemos utilizar esta forma de contar, quando um metodo tiver apenas o get{ return Items.Count}
     }
 }

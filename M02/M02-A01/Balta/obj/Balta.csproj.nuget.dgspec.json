@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {}
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\balta\\Balta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj": {
+    "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\balta\\Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
+        "projectUniqueName": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\balta\\Balta.csproj",
         "projectName": "Balta",
-        "projectPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\Balta.csproj",
+        "projectPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\balta\\Balta.csproj",
         "packagesPath": "C:\\Users\\Alexeus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\Balta\\obj\\",
+        "outputPath": "C:\\Users\\Alexeus\\Documents\\GitHub\\Aulas---Balta.io\\M02\\M02-A01\\balta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexeus\\AppData\\Roaming\\NuGet\\NuGet.Config",
